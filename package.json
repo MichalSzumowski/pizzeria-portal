@@ -38,7 +38,6 @@
   },
   "lint-staged": {
     "src/**/*.js": [
-      "yarn test-related --",
       "eslint"
     ]
   },
