@@ -4,7 +4,7 @@ import MainLayout from '../src/components/layout/MainLayout/MainLayout';
 import Homepage from '../src/components/views/Homepage/Homepage';
 import Login from '../src/components/views/Login/Login';
 import Tables from '../src/components/views/Tables/Tables';
-import Waiter from '../src/components/views/Waiter/Waiter';
+import Waiter from '../src/components/views/Waiter/WaiterContainer';
 import Kitchen from '../src/components/views/Kitchen/Kitchen';
 import BookingInfo from '../src/components/views/BookingInfo/BookingInfo';
 import NewBooking from '../src/components/views/NewBooking/NewBooking';
