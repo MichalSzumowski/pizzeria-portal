@@ -2,19 +2,13 @@
 
 .component {
   padding: $base-size;
-  margin-top: $base-size;
 }
 
-.center {
+.accordionDetails {
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  justify-content: space-between;
 }
 
 .avatar {
   background-color: #2B4C6F;
 }
-
-.form {
-  width: '100%'; 
-} 
